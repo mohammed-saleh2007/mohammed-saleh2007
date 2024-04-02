@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mohammed-saleh2007
+- 👋 Hi, I’m Mohammed Saleh, Linux user and Open Source Developer
 - 👀 I’m interested in linux and coding
-- 🌱 I’m currently learning backend
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on system admin
-- 📫 How to reach me 01098975872
+- 📫 How to reach me [telegram](https://t.me/MinecraftPlayer44)
 
 <!---
 mohammed-saleh2007/mohammed-saleh2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
